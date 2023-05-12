@@ -1,33 +1,38 @@
 .product-card-container {
     display: flex;
-    justify-content: space-around;
-    flex-wrap:wrap; 
-    margin: 50px;
+    justify-content:center;
+    flex-wrap: wrap;
+    margin: 5px;
     text-align: center;
-
   }
   
   .card {
-    margin: 111px;
+    margin: 10px;
+    width: 400px;
+    height: 450px;  
+    border: 2px solid #32343d;
+    border-radius: 11px;
+    background-color: #e0eced90;
+    color: #090206;
     
-
-    
-
-    
-
   }
   
   .card button {
     border: none;
     outline: 0;
-    padding: 10px;
+    padding: 13px;
     color: white;
-    background-color: #138453;
+    background-color: #1bcb7f;
     text-align: center;
     cursor: pointer;
-    width: 100%;
-    font-size: 15px;
-  }
+    width: 90%;
+    font-size: 13px;
+    border-radius: 11px;
+    margin: 0px;
+    margin-top: 1px;
+    
+}
   .card button:hover {
     opacity: 0.7;
   }
+  

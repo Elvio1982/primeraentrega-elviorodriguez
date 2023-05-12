@@ -1,19 +1,19 @@
 [
     {
       "id": 1,
-      "name": "Zapatillas Nike",
+      "name": "Zapatillas Nike, Air ZoomAir",
       "modelo": "Air Zoom Vomero 15",
       "price": 51000,
-      "img":"https://http2.mlstatic.com/D_NQ_NP_781371-MLA32581101942_102019-O.jpg",
-      "quanty": 30
+      "img":"https://www.opensports.com.ar/media/catalog/product/cache/6f91ed87555a15260d810a895c116072/C/U/CU1855-006_0.jpg",
+      "quanty": 1
     },
     {
       "id": 2,
-      "name": "Zapatillas adidas",
+      "name": "Zapatillas adidas Response Super",
       "modelo": "Response Super 3.0",
       "price": 44000,
-      "img":"https://assets.adidas.com/images/w_600,f_auto,q_auto/cde9362a09ba4dd38c9ead6600ac074e_9366/Zapatillas_Duramo_SL_2.0_Negro_GW8336_01_standard.jpg",
-      "quanty": 50
+      "img":"https://static.runnea.com/images/202209/adidas-zapatillas-running-response-super-3.0-runnea-200x200x80xX.jpg?1",
+      "quanty": 1
     },
   
     {
@@ -21,15 +21,61 @@
       "name": "Pantalón Adidas",
       "modelo": "Future Icons",
       "price": 29000,
-      "img":"https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/3bad693153d147fa82c9ad1000f18bc7_9366/Pantalon_adidas_Sportswear_Future_Icons_3_Tiras_Negro_GR4088_21_model.jpg",
-      "quanty": 30
+      "img":"https://media.solodeportes.com.ar/media/catalog/product/cache/a0bd03cb38235cf9ca6c3c8cbea4afc1/p/a/pantalon-adidas-future-icons-negro-100020hc5857001-1.jpg",
+      "quanty": 1
     },
     {
       "id": 4,
-      "name": "Buzo Reebok",
-      "author": "Camo Crew De Hombre",
-      "price": 18000,
-      "img":"https://media.solodeportes.com.ar/media/catalog/product/cache/7c4f9b393f0b8cb75f2b74fe5e9e52aa/b/u/buzo-reebok-identity-camo-gris-111020he8172001-1.jpg",
-      "quanty": 20
+      "name": "Conjunto Reebok",
+      "modelo": "Camo Crew De Hombre",
+      "price": 55000,
+      "img":"https://assets.reebok.com/images/w_280,h_280,f_auto,q_auto:sensitive/463f04e181b44c08ae7faad50141e5b6_9366/buzo-deportivo-training-essentials.jpg",
+      "quanty": 1
+    },
+
+    {
+      "id": 5,
+      "name": "Remera Adidas",
+      "modelo": "Essentials",
+      "price": 9000,
+      "img":"https://media.solodeportes.com.ar/media/catalog/product/cache/a0bd03cb38235cf9ca6c3c8cbea4afc1/r/e/remera-adidas-essentials-logo-roja-100020gk9124001-1.jpg",
+      "quanty": 1
+    },
+    
+    {
+      "id": 6,
+      "name": "Zapatillas adidas Pureboost",
+      "modelo": "Response Super 3.0",
+      "price": 45000,
+      "img":"https://media.solodeportes.com.ar/media/catalog/product/cache/a0bd03cb38235cf9ca6c3c8cbea4afc1/z/a/zapatilla-de-tenis-adidas-courtsmash-blanca-100010f36718001-1.jpg",
+      "quanty": 1
+    },
+
+    {
+      "id": 7,
+      "name": "Pantalon Puma Futbol",
+      "modelo": "Response Super",
+      "price": 15000,
+      "img":"https://i.ebayimg.com/thumbs/images/g/x40AAOSwVFNj-7Zl/s-l300.jpg",
+      "quanty": 1
+    },
+
+    {
+      "id": 8,
+      "name": "Pantalon Reeobok Mujer",
+      "modelo": "Response Super",
+      "price": 7000,
+      "img":"https://www.opensports.com.ar/media/catalog/product/cache/25e89759b69d23d0ee436c9ddbb4ede0/1/3/1372632-019_0_6.jpg",
+      "quanty": 1
+    },
+
+    {
+      "id": 9,
+      "name": "Pantalon Adidas Clasico",
+      "modelo": "Retro",
+      "price": 6000,
+      "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7Wcr-RUV8Syh0OjkXz-nRMfus8syktnczO-fTFCbaDjiWAN-WsgteQzcTZcIgbIu4A_k&usqp=CAU.jpg",
+      "quanty": 1
     }
+    
   ]

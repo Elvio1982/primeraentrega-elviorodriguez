@@ -1,14 +1,17 @@
 .nav-container {
-    position: sticky;
-    z-index: 3;
-    top: auto;
+    position:sticky;
+    z-index: 9;
+    top: 0;
+
+   
 }
 
 .navbar {
     display: flex;
     justify-content: space-between;
-    height: 14vh;
+    height: 11vh;
     background-color: rgb(14, 9, 9);
+    color: white;
 }
 
 .navbar-logo {
