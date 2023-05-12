@@ -1,0 +1,35 @@
+[
+    {
+      "id": 1,
+      "name": "Zapatillas Nike",
+      "modelo": "Air Zoom Vomero 15",
+      "price": 51000,
+      "img":"https://http2.mlstatic.com/D_NQ_NP_781371-MLA32581101942_102019-O.jpg",
+      "quanty": 30
+    },
+    {
+      "id": 2,
+      "name": "Zapatillas adidas",
+      "modelo": "Response Super 3.0",
+      "price": 44000,
+      "img":"https://assets.adidas.com/images/w_600,f_auto,q_auto/cde9362a09ba4dd38c9ead6600ac074e_9366/Zapatillas_Duramo_SL_2.0_Negro_GW8336_01_standard.jpg",
+      "quanty": 50
+    },
+  
+    {
+      "id": 3,
+      "name": "Pantalón Adidas",
+      "modelo": "Future Icons",
+      "price": 29000,
+      "img":"https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/3bad693153d147fa82c9ad1000f18bc7_9366/Pantalon_adidas_Sportswear_Future_Icons_3_Tiras_Negro_GR4088_21_model.jpg",
+      "quanty": 30
+    },
+    {
+      "id": 4,
+      "name": "Buzo Reebok",
+      "author": "Camo Crew De Hombre",
+      "price": 18000,
+      "img":"https://media.solodeportes.com.ar/media/catalog/product/cache/7c4f9b393f0b8cb75f2b74fe5e9e52aa/b/u/buzo-reebok-identity-camo-gris-111020he8172001-1.jpg",
+      "quanty": 20
+    }
+  ]
