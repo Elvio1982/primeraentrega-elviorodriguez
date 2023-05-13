@@ -6,8 +6,8 @@ const CartTotal = () => {
 
   const total = cart.reduce((acc, el) => acc + el.price *el.quanty, 0);
   return (
-    <div className='cartTotal'>
-      <h4>total a pagar: {total} $</h4>
+    <div className="cartTotal">
+      <h2>Total a pagar: {total} $</h2>
     </div>
   );
 };
